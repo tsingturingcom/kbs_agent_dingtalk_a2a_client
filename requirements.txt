@@ -1,0 +1,6 @@
+aiohttp>=3.8.5
+async-timeout>=4.0.2
+dingtalk-stream>=0.14.0
+pydantic>=2.0.0
+typing-extensions>=4.4.0
+configparser>=5.3.0 
